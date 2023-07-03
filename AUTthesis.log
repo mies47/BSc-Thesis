@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.14)  3 JUL 2023 11:04
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.14)  3 JUL 2023 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1316,10 +1316,10 @@ LaTeX Info: Redefining \nameref on input line 32.
  (./fa_title.tex
 
 LaTeX Font Warning: Font shape `TU/BNazanin(0)/m/sl' undefined
-(Font)              using `TU/BNazanin(0)/m/n' instead on input line 35.
+(Font)              using `TU/BNazanin(0)/m/n' instead on input line 33.
 
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/sl' will be
-(Font)              scaled to size 14.39996pt on input line 35.
+(Font)              scaled to size 14.39996pt on input line 33.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1334,18 +1334,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: fa-logo.png Graphic file (type bmp)
 <fa-logo.png>
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 35.
+(Font)              scaled to size 14.39996pt on input line 33.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 19.19995pt on input line 35.
+(Font)              scaled to size 19.19995pt on input line 33.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 16.79996pt on input line 35.
+(Font)              scaled to size 16.79996pt on input line 33.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 19.19995pt on input line 35.
+(Font)              scaled to size 19.19995pt on input line 33.
 
 ! Undefined control sequence.
 \AUTtitle ...سی \vspace {-.8cm} \par \@department 
                                                   \else رساله دکتری \vspace ...
-l.35 \AUTtitle
+l.33 \AUTtitle
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1354,19 +1354,19 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 23.99994pt on input line 35.
+(Font)              scaled to size 23.99994pt on input line 33.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 23.99994pt on input line 35.
+(Font)              scaled to size 23.99994pt on input line 33.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 21.59995pt on input line 35.
+(Font)              scaled to size 21.59995pt on input line 33.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 21.59995pt on input line 35.
+(Font)              scaled to size 21.59995pt on input line 33.
 
 LaTeX Font Warning: Font shape `TU/PGaramond(0)/b/n' undefined
-(Font)              using `TU/PGaramond(0)/m/n' instead on input line 35.
+(Font)              using `TU/PGaramond(0)/m/n' instead on input line 33.
 
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
-(Font)              scaled to size 17.6001pt on input line 35.
+(Font)              scaled to size 17.6001pt on input line 33.
 [2]
 File: besm.jpg Graphic file (type bmp)
 <besm.jpg>
@@ -1576,16 +1576,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-LaTeX Font Info:    Font shape `TU/PGaramond(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 26.
-
-
-LaTeX Warning: Reference `sec2' on page 3 undefined on input line 28.
-
-LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 60.
-LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 60.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1687,21 +1677,15 @@ No file AUTthesis.ind.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: BEC0DE3C761C8BF6C504A64EA0C4161D;2628.
+(rerunfilecheck)             Checksum: 074D6A1A20BD29256DD9647C0984E485;1619.
  ) 
 Here is how much of TeX's memory you used:
- 17171 strings out of 476919
- 332110 string characters out of 5821840
- 767610 words of memory out of 5000000
- 36692 multiletter control sequences out of 15000+600000
- 412803 words of font info for 137 fonts, out of 8000000 for 9000
+ 17156 strings out of 476919
+ 331794 string characters out of 5821840
+ 768610 words of memory out of 5000000
+ 36681 multiletter control sequences out of 15000+600000
+ 412779 words of font info for 134 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,11n,106p,2634b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
 
