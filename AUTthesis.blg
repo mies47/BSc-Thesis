@@ -2,54 +2,54 @@ This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: AUTthesis.aux
 A level-1 auxiliary file: chapter1.aux
-The style file: plain-fa.bst
+The style file: unsrt-fa.bst
 A level-1 auxiliary file: appendix1.aux
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 A level-1 auxiliary file: en-abstract.aux
 Database file #1: references.bib
--- plain-fa.bst version 0.9 (2015/05/09) 
+-- unsrt-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
 You've used 4 entries,
-            2546 wiz_defined-function locations,
-            660 strings with 6058 characters,
-and the built_in function-call counts, 1529 in all, are:
-= -- 138
-> -- 61
+            2198 wiz_defined-function locations,
+            606 strings with 5547 characters,
+and the built_in function-call counts, 1063 in all, are:
+= -- 90
+> -- 37
 < -- 0
-+ -- 26
-- -- 20
-* -- 125
-:= -- 239
++ -- 14
+- -- 10
+* -- 93
+:= -- 161
 add.period$ -- 12
 call.type$ -- 4
-change.case$ -- 22
+change.case$ -- 4
 chr.to.int$ -- 0
 cite$ -- 4
-duplicate$ -- 44
-empty$ -- 108
-format.name$ -- 20
-if$ -- 337
+duplicate$ -- 36
+empty$ -- 96
+format.name$ -- 10
+if$ -- 231
 int.to.chr$ -- 0
 int.to.str$ -- 4
-missing$ -- 33
+missing$ -- 15
 newline$ -- 42
-num.names$ -- 8
-pop$ -- 14
+num.names$ -- 4
+pop$ -- 4
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 0
 quote$ -- 0
-skip$ -- 29
+skip$ -- 13
 stack$ -- 0
-substring$ -- 115
+substring$ -- 93
 swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 16
+type$ -- 0
 warning$ -- 0
-while$ -- 15
+while$ -- 11
 width$ -- 5
 write$ -- 61
