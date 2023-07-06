@@ -46,4 +46,14 @@ Kaiser, Kevin~A and Gebraeel, Nagi~Z.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{jung2017vibration}
+Jung, Deokwoo, Zhang, Zhenjie, and Winslett, Marianne.
+\newblock Vibration analysis for iot enabled predictive maintenance.
+\newblock  in {\em 2017 ieee 33rd international conference on data engineering
+  (icde)},  pp. 1271--1282. IEEE, 2017.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
