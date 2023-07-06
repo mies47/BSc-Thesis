@@ -8,8 +8,10 @@
 \contentsline {section}{\numberline {1-1}تعمیر و نگهداری}{2}{section.1.1}%
 \contentsline {section}{\numberline {1-2}راهکار پیشنهادی}{3}{section.1.2}%
 \contentsline {section}{\numberline {1-3}کارهای مشابه}{3}{section.1.3}%
-\contentsline {chapter}{منابع و مراجع}{5}{appendix*.6}%
-\contentsline {chapter}{پیوست}{6}{appendix*.7}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{7}{appendix*.9}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{9}{appendix*.10}%
+\contentsline {chapter}{\numberline {2}مفاهیم پایه و تجهیزات‌}{5}{chapter.2}%
+\contentsline {section}{\numberline {2-1}حسگر}{6}{section.2.1}%
+\contentsline {chapter}{منابع و مراجع}{8}{appendix*.6}%
+\contentsline {chapter}{پیوست}{9}{appendix*.7}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{10}{appendix*.9}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{12}{appendix*.10}%
 \contentsfinish 

@@ -1,4 +1,6 @@
 \hspace *{.5cm}شکل\hfill صفحه \par 
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1-1}{\ignorespaces سیاست‌های انجام تعمیرات و نگهداری \cite {zhao2022review}}}{2}{figure.1.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces حسگر مدل \lr {ADXL 345}}}{7}{figure.2.1}%
 \contentsfinish 
