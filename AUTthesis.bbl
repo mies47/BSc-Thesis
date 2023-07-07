@@ -15,6 +15,16 @@ Zhao, Jingyi, Gao, Chunhai, and Tang, Tao.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{jung2017vibration}
+Jung, Deokwoo, Zhang, Zhenjie, and Winslett, Marianne.
+\newblock Vibration analysis for iot enabled predictive maintenance.
+\newblock  in {\em 2017 ieee 33rd international conference on data engineering
+  (icde)},  pp. 1271--1282. IEEE, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{tinga2010application}
 Tinga, Tiedo.
 \newblock Application of physical failure models to enable usage and load based
@@ -48,11 +58,42 @@ Kaiser, Kevin~A and Gebraeel, Nagi~Z.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{jung2017vibration}
-Jung, Deokwoo, Zhang, Zhenjie, and Winslett, Marianne.
-\newblock Vibration analysis for iot enabled predictive maintenance.
-\newblock  in {\em 2017 ieee 33rd international conference on data engineering
-  (icde)},  pp. 1271--1282. IEEE, 2017.
+\bibitem{carlsson2018measuring}
+Carlsson, Anders, Kuzminykh, Ievgeniia, Franksson, Robin, and Liljegren,
+  Alexander.
+\newblock Measuring a lora network: Performance, possibilities and limitations.
+\newblock  in {\em Internet of Things, Smart Spaces, and Next Generation
+  Networks and Systems: 18th International Conference, NEW2AN 2018, and 11th
+  Conference, ruSMART 2018, St. Petersburg, Russia, August 27--29, 2018,
+  Proceedings 18},  pp. 116--128. Springer, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{tabbane2017iot}
+Tabbane, Sami.
+\newblock Iot systems overview.
+\newblock {\em International Telecommunication Union}, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ramya2011study}
+Ramya, C~Muthu, Shanmugaraj, Madasamy, and Prabakaran, R.
+\newblock Study on zigbee technology.
+\newblock  in {\em 2011 3rd international conference on electronics computer
+  technology},  vol.~6,  pp. 297--301. IEEE, 2011.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{gislason2008zigbee}
+Gislason, Drew.
+\newblock {\em Zigbee wireless networking}.
+\newblock Newnes, 2008.
 
 \end{LTRbibitems}
 
