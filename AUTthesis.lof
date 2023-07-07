@@ -1,7 +1,9 @@
 \hspace *{.5cm}شکل\hfill صفحه \par 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1-1}{\ignorespaces سیاست‌های انجام تعمیرات و نگهداری \cite {zhao2022review}}}{2}{figure.1.1}%
+\contentsline {figure}{\numberline {1-1}{\ignorespaces سیاست‌های انجام تعمیرات و نگهداری \cite {zhao2022review}\relax }}{2}{figure.caption.6}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces حسگر مدل \lr {ADXL 345}}}{7}{figure.2.1}%
-\contentsline {figure}{\numberline {2-2}{\ignorespaces بورد آردوینو نانو}}{7}{figure.2.2}%
+\contentsline {figure}{\numberline {2-1}{\ignorespaces حسگر مدل \lr {ADXL 345}\relax }}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces بورد آردوینو نانو\relax }}{7}{figure.caption.9}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces مقایسه پروتکل زیگبی و سایر پروتکل‌های اینترنت اشیاء\relax }}{9}{figure.caption.10}%
+\contentsfinish 
 \contentsfinish 
