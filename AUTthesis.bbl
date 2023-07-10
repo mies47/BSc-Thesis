@@ -108,4 +108,22 @@ Song, SM and Yao, WJ.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{salih2012design}
+Salih, Mohammed A Abdala\& Alaa~Mohammed.
+\newblock Design and performance analysis of building monitoring system with
+  wireless sensor networks.
+\newblock {\em Iraqi Journal of Science}, 53(4):1097--1102, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Digi}
+Inc., Digi~International.
+\newblock Xbee zigbee guide, 2022.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
