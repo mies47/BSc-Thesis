@@ -26,8 +26,9 @@
 \contentsline {subsection}{\numberline {2-3-7}ارتباط سریال ماژول‌های ایکس‌بی}{15}{subsection.2.3.7}%
 \contentsline {subsubsection}{حالت شفاف}{15}{section*.20}%
 \contentsline {subsubsection}{حالت \lr {API}}{16}{section*.22}%
-\contentsline {chapter}{منابع و مراجع}{18}{appendix*.24}%
-\contentsline {chapter}{پیوست}{20}{appendix*.25}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{21}{appendix*.27}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{23}{appendix*.28}%
+\contentsline {section}{\numberline {2-4}پایگاه داده‌ی سری زمانی}{17}{section.2.4}%
+\contentsline {chapter}{منابع و مراجع}{19}{appendix*.25}%
+\contentsline {chapter}{پیوست}{21}{appendix*.26}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{22}{appendix*.28}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{24}{appendix*.29}%
 \contentsfinish 
