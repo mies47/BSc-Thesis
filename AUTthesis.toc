@@ -27,8 +27,10 @@
 \contentsline {subsubsection}{حالت شفاف}{15}{section*.20}%
 \contentsline {subsubsection}{حالت \lr {API}}{16}{section*.22}%
 \contentsline {section}{\numberline {2-4}پایگاه داده‌ی سری زمانی}{17}{section.2.4}%
-\contentsline {chapter}{منابع و مراجع}{19}{appendix*.25}%
-\contentsline {chapter}{پیوست}{21}{appendix*.26}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{22}{appendix*.28}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{24}{appendix*.29}%
+\contentsline {section}{\numberline {2-5}پیش‌پردازش}{18}{section.2.5}%
+\contentsline {section}{\numberline {2-6}برنامه‌ی تحت وب}{19}{section.2.6}%
+\contentsline {chapter}{منابع و مراجع}{21}{appendix*.25}%
+\contentsline {chapter}{پیوست}{23}{appendix*.26}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{24}{appendix*.28}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{26}{appendix*.29}%
 \contentsfinish 
