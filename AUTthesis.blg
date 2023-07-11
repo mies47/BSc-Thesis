@@ -9,52 +9,51 @@ A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 A level-1 auxiliary file: en-abstract.aux
 Database file #1: references.bib
-Warning--entry type for "Digi" isn't style-file defined
---line 102 of file references.bib
 -- unsrt-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Warning--can't use both volume and number fields in song2019research
+Warning--empty journal in bressert2012scipy
 
 Done.
-You've used 14 entries,
+You've used 17 entries,
             2198 wiz_defined-function locations,
-            665 strings with 7133 characters,
-and the built_in function-call counts, 3694 in all, are:
-= -- 329
-> -- 109
+            685 strings with 7772 characters,
+and the built_in function-call counts, 4349 in all, are:
+= -- 379
+> -- 149
 < -- 6
-+ -- 43
-- -- 29
-* -- 216
-:= -- 494
-add.period$ -- 43
-call.type$ -- 14
-change.case$ -- 12
++ -- 58
+- -- 41
+* -- 257
+:= -- 597
+add.period$ -- 53
+call.type$ -- 17
+change.case$ -- 16
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 171
-empty$ -- 354
-format.name$ -- 29
-if$ -- 901
+cite$ -- 19
+duplicate$ -- 193
+empty$ -- 410
+format.name$ -- 41
+if$ -- 1047
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 60
-newline$ -- 129
-num.names$ -- 13
-pop$ -- 53
+int.to.str$ -- 17
+missing$ -- 69
+newline$ -- 157
+num.names$ -- 15
+pop$ -- 63
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 101
+skip$ -- 110
 stack$ -- 0
-substring$ -- 240
-swap$ -- 63
+substring$ -- 265
+swap$ -- 65
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
-warning$ -- 1
-while$ -- 32
-width$ -- 16
-write$ -- 196
+warning$ -- 2
+while$ -- 36
+width$ -- 19
+write$ -- 237
 (There were 2 warnings)
