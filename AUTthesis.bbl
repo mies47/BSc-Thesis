@@ -121,8 +121,24 @@ Salih, Mohammed A Abdala\& Alaa~Mohammed.
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Digi}
-Inc., Digi~International.
+International, Digi.
 \newblock Xbee zigbee guide, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{naqvi2017time}
+Naqvi, Syeda Noor~Zehra, Yfantidou, Sofia, and Zim{\'a}nyi, Esteban.
+\newblock Time series databases and influxdb.
+\newblock {\em Studienarbeit, Universit{\'e} Libre de Bruxelles}, 12, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{influx}
+Jun 2023.
 
 \end{LTRbibitems}
 
