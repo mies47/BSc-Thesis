@@ -131,6 +131,15 @@ International, Digi.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{raspberry}
+Raspberry pi datasheet.
+\newblock
+  \url{https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-product-brief.pdf}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{naqvi2017time}
 Naqvi, Syeda Noor~Zehra, Yfantidou, Sofia, and Zim{\'a}nyi, Esteban.
 \newblock Time series databases and influxdb.
