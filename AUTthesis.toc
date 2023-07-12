@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست اشکال}{ج}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{د}{section*.5}%
+\contentsline {chapter}{فهرست اشکال}{د}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{ه}{section*.5}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
@@ -26,11 +26,13 @@
 \contentsline {subsection}{\numberline {2-3-7}ارتباط سریال ماژول‌های ایکس‌بی}{15}{subsection.2.3.7}%
 \contentsline {subsubsection}{حالت شفاف}{15}{section*.20}%
 \contentsline {subsubsection}{حالت \lr {API}}{16}{section*.22}%
-\contentsline {section}{\numberline {2-4}پایگاه داده‌ی سری زمانی}{17}{section.2.4}%
-\contentsline {section}{\numberline {2-5}پیش‌پردازش}{18}{section.2.5}%
-\contentsline {section}{\numberline {2-6}برنامه‌ی تحت وب}{19}{section.2.6}%
-\contentsline {chapter}{منابع و مراجع}{21}{appendix*.25}%
-\contentsline {chapter}{پیوست}{23}{appendix*.26}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{24}{appendix*.28}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{26}{appendix*.29}%
+\contentsline {section}{\numberline {2-4}دروازه}{17}{section.2.4}%
+\contentsline {section}{\numberline {2-5}پایگاه داده‌ی سری زمانی}{18}{section.2.5}%
+\contentsline {section}{\numberline {2-6}پیش‌پردازش}{19}{section.2.6}%
+\contentsline {section}{\numberline {2-7}برنامه‌ی تحت وب}{20}{section.2.7}%
+\contentsline {section}{\numberline {2-8}جمع‌بندی و نتیجه‌گیری}{21}{section.2.8}%
+\contentsline {chapter}{منابع و مراجع}{22}{appendix*.26}%
+\contentsline {chapter}{پیوست}{25}{appendix*.27}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{26}{appendix*.29}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{28}{appendix*.30}%
 \contentsfinish 
