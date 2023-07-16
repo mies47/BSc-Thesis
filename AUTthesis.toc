@@ -42,8 +42,17 @@
 \contentsline {subsubsection}{داده ارسالی}{28}{section*.33}%
 \contentsline {subsubsection}{فایل \lr {Xbee.cpp} و توابع مهم}{28}{section*.34}%
 \contentsline {subsection}{\numberline {3-2-3}‫ﺧﻮﺍﺑﻴﺪﻥ‬ ‫ﻭ‬ ‫ﺑﻴﺪﺍﺭﺷﺪﻥ‬ ‫ﺩﺭ‬ ‫ﺑﺎﺯﻩ‬‌‫ﻫﺎی ‬‫ﺯﻣﺎﻧﻲ‬ ‫ﻣﺸﺨﺺ‬}{28}{subsection.3.2.3}%
-\contentsline {chapter}{منابع و مراجع}{30}{appendix*.35}%
-\contentsline {chapter}{پیوست}{33}{appendix*.36}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{34}{appendix*.38}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{36}{appendix*.39}%
+\contentsline {section}{\numberline {3-3}دروازه}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {3-3-1}فایل \lr {env\_vars.py}}{29}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3-3-2}فایل \lr {models.py}}{29}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3-3-3}فایل \lr {receiver.py}}{30}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3-3-4}فایل \lr {requirements.txt}}{30}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3-3-5}فایل \lr {schedule.sh}}{30}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3-3-6}فایل \lr {send\_data.py}}{31}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {3-3-7}فایل \lr {signup.py}}{31}{subsection.3.3.7}%
+\contentsline {subsection}{\numberline {3-3-8}فایل \lr {utils.py}}{31}{subsection.3.3.8}%
+\contentsline {chapter}{منابع و مراجع}{32}{appendix*.36}%
+\contentsline {chapter}{پیوست}{35}{appendix*.37}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{36}{appendix*.39}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{38}{appendix*.40}%
 \contentsfinish 
