@@ -51,8 +51,10 @@
 \contentsline {subsection}{\numberline {3-3-6}فایل \lr {send\_data.py}}{31}{subsection.3.3.6}%
 \contentsline {subsection}{\numberline {3-3-7}فایل \lr {signup.py}}{31}{subsection.3.3.7}%
 \contentsline {subsection}{\numberline {3-3-8}فایل \lr {utils.py}}{31}{subsection.3.3.8}%
-\contentsline {chapter}{منابع و مراجع}{32}{appendix*.36}%
-\contentsline {chapter}{پیوست}{35}{appendix*.37}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{36}{appendix*.39}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{38}{appendix*.40}%
+\contentsline {section}{\numberline {3-4}پیش‌پردازش}{31}{section.3.4}%
+\contentsline {section}{\numberline {3-5}پایگاه داده سری زمانی}{32}{section.3.5}%
+\contentsline {chapter}{منابع و مراجع}{33}{appendix*.36}%
+\contentsline {chapter}{پیوست}{36}{appendix*.37}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{37}{appendix*.39}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{39}{appendix*.40}%
 \contentsfinish 
