@@ -3,6 +3,7 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: AUTthesis.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
 The style file: unsrt-fa.bst
 A level-1 auxiliary file: appendix1.aux
 A level-1 auxiliary file: dicfa2en.aux
@@ -15,45 +16,45 @@ Warning--can't use both volume and number fields in song2019research
 Warning--empty journal in bressert2012scipy
 
 Done.
-You've used 18 entries,
+You've used 19 entries,
             2198 wiz_defined-function locations,
-            688 strings with 7881 characters,
-and the built_in function-call counts, 4462 in all, are:
-= -- 387
-> -- 150
+            692 strings with 7968 characters,
+and the built_in function-call counts, 4581 in all, are:
+= -- 396
+> -- 151
 < -- 6
-+ -- 59
++ -- 60
 - -- 41
-* -- 257
-:= -- 606
-add.period$ -- 55
-call.type$ -- 18
-change.case$ -- 17
+* -- 260
+:= -- 616
+add.period$ -- 57
+call.type$ -- 19
+change.case$ -- 18
 chr.to.int$ -- 0
-cite$ -- 20
-duplicate$ -- 198
-empty$ -- 428
+cite$ -- 21
+duplicate$ -- 203
+empty$ -- 446
 format.name$ -- 41
-if$ -- 1078
+if$ -- 1110
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 71
-newline$ -- 165
+int.to.str$ -- 19
+missing$ -- 73
+newline$ -- 173
 num.names$ -- 15
-pop$ -- 69
+pop$ -- 76
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 116
+skip$ -- 120
 stack$ -- 0
 substring$ -- 265
-swap$ -- 66
+swap$ -- 67
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 2
 while$ -- 36
-width$ -- 20
-write$ -- 247
+width$ -- 21
+write$ -- 258
 (There were 2 warnings)

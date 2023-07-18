@@ -53,8 +53,13 @@
 \contentsline {subsection}{\numberline {3-3-8}فایل \lr {utils.py}}{31}{subsection.3.3.8}%
 \contentsline {section}{\numberline {3-4}پیش‌پردازش}{31}{section.3.4}%
 \contentsline {section}{\numberline {3-5}پایگاه داده سری زمانی}{32}{section.3.5}%
-\contentsline {chapter}{منابع و مراجع}{33}{appendix*.36}%
-\contentsline {chapter}{پیوست}{36}{appendix*.37}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{37}{appendix*.39}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{39}{appendix*.40}%
+\contentsline {subsection}{\numberline {3-5-1}ساختار کلی}{33}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3-5-2}اندازه‌گیری‌ها و توابع مربوط به نوشتن و گرفتن داده}{33}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3-5-3}توابع گرفتن شناسه گره و اندازه‌گیری}{34}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3-5-4}تابع \lr {get\_starting\_service\_date}}{34}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3-5-5}تابع حذف داده‌ها و حافظه پنهان}{34}{subsection.3.5.5}%
+\contentsline {chapter}{منابع و مراجع}{35}{appendix*.38}%
+\contentsline {chapter}{پیوست}{38}{appendix*.39}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{39}{appendix*.41}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{41}{appendix*.42}%
 \contentsfinish 
