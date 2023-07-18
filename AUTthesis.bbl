@@ -183,4 +183,12 @@ Vue.js.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{influx_doc}
+Influxdb document.
+\newblock \url{https://docs.influxdata.com/influxdb/v2.7/}, Jun 2023.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
