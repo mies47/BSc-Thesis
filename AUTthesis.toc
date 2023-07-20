@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
 \contentsline {chapter}{فهرست اشکال}{د}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{ه}{section*.5}%
+\contentsline {chapter}{فهرست جداول}{و}{section*.5}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
@@ -58,8 +58,33 @@
 \contentsline {subsection}{\numberline {3-5-3}توابع گرفتن شناسه گره و اندازه‌گیری}{34}{subsection.3.5.3}%
 \contentsline {subsection}{\numberline {3-5-4}تابع \lr {get\_starting\_service\_date}}{34}{subsection.3.5.4}%
 \contentsline {subsection}{\numberline {3-5-5}تابع حذف داده‌ها و حافظه پنهان}{34}{subsection.3.5.5}%
-\contentsline {chapter}{منابع و مراجع}{35}{appendix*.38}%
-\contentsline {chapter}{پیوست}{38}{appendix*.39}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{39}{appendix*.41}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{41}{appendix*.42}%
+\contentsline {section}{\numberline {3-6}برنامه وب و چارچوب ویو}{35}{section.3.6}%
+\contentsline {subsection}{\numberline {3-6-1}کتابخانه‌ها و ماژول‌ها}{35}{subsection.3.6.1}%
+\contentsline {subsubsection}{چارچوب ناکست}{35}{section*.38}%
+\contentsline {subsubsection}{کتابخانه ویوتیفای}{35}{section*.39}%
+\contentsline {subsubsection}{کتابخانه چارت}{36}{section*.40}%
+\contentsline {subsubsection}{کتابخانه اکسیوس}{36}{section*.41}%
+\contentsline {subsubsection}{ماژول احراز هویت ناکست}{36}{section*.42}%
+\contentsline {subsection}{\numberline {3-6-2}ساختار پروژه}{37}{subsection.3.6.2}%
+\contentsline {subsubsection}{پوشه \lr {assets}}{38}{section*.44}%
+\contentsline {subsubsection}{پوشه \lr {components}}{38}{section*.45}%
+\contentsline {subsubsection}{پوشه \lr {layouts}}{38}{section*.46}%
+\contentsline {subsubsection}{پوشه \lr {pages}}{38}{section*.47}%
+\contentsline {subsubsection}{پوشه \lr {plugins}}{39}{section*.48}%
+\contentsline {subsubsection}{پوشه \lr {statics}}{39}{section*.49}%
+\contentsline {subsubsection}{پوشه \lr {store}}{39}{section*.50}%
+\contentsline {subsubsection}{فایل \lr {nuxt.config.js}}{39}{section*.51}%
+\contentsline {subsection}{\numberline {3-6-3}مؤلفه‌های اصلی}{40}{subsection.3.6.3}%
+\contentsline {subsubsection}{کارت خلاصه}{40}{section*.52}%
+\contentsline {subsubsection}{فرم‌ها}{40}{section*.54}%
+\contentsline {subsubsection}{اسنک‌بار}{40}{section*.57}%
+\contentsline {subsubsection}{فوتر}{41}{section*.58}%
+\contentsline {subsubsection}{مؤلفه‌های \lr {GatewayDetail} و \lr {UserDetail}}{42}{section*.59}%
+\contentsline {subsubsection}{داشبورد}{42}{section*.61}%
+\contentsline {subsubsection}{گره}{42}{section*.63}%
+\contentsline {section}{\numberline {3-7}نتیجه‌گیری و جمع‌بندی}{44}{section.3.7}%
+\contentsline {chapter}{منابع و مراجع}{45}{appendix*.67}%
+\contentsline {chapter}{پیوست}{48}{appendix*.68}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{49}{appendix*.70}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{51}{appendix*.71}%
 \contentsfinish 

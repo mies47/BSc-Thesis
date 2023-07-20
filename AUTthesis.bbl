@@ -191,4 +191,55 @@ Influxdb document.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kok2020hands}
+Kok, Lau~Tiam.
+\newblock {\em Hands-on Nuxt. js Web Development: Build universal and
+  static-generated Vue. js applications using Nuxt. js}.
+\newblock Packt Publishing Ltd, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{vuetify}
+Vuetify document.
+\newblock \url{https://v2.vuetifyjs.com/en/introduction/why-vuetify/}, Aug
+  2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{chart}
+Chart.js document.
+\newblock \url{https://www.chartjs.org/docs/latest/}, Apr 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{axios}
+Axios-http document.
+\newblock \url{https://axios-http.com/docs/intro}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{nuxt_auth}
+Nuxt/auth document.
+\newblock \url{https://auth.nuxtjs.org/}, Dec 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{nuxt}
+Nuxt.js document.
+\newblock \url{https://v2.nuxt.com/docs}, Jun 2023.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
