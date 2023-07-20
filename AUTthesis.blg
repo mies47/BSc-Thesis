@@ -16,45 +16,45 @@ Warning--can't use both volume and number fields in song2019research
 Warning--empty journal in bressert2012scipy
 
 Done.
-You've used 19 entries,
+You've used 25 entries,
             2198 wiz_defined-function locations,
-            692 strings with 7968 characters,
-and the built_in function-call counts, 4581 in all, are:
-= -- 396
-> -- 151
+            715 strings with 8449 characters,
+and the built_in function-call counts, 5332 in all, are:
+= -- 452
+> -- 160
 < -- 6
-+ -- 60
-- -- 41
-* -- 260
-:= -- 616
-add.period$ -- 57
-call.type$ -- 19
-change.case$ -- 18
++ -- 67
+- -- 42
+* -- 275
+:= -- 688
+add.period$ -- 70
+call.type$ -- 25
+change.case$ -- 23
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 203
-empty$ -- 446
-format.name$ -- 41
-if$ -- 1110
+cite$ -- 27
+duplicate$ -- 238
+empty$ -- 555
+format.name$ -- 42
+if$ -- 1310
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 73
-newline$ -- 173
-num.names$ -- 15
-pop$ -- 76
+int.to.str$ -- 25
+missing$ -- 88
+newline$ -- 222
+num.names$ -- 16
+pop$ -- 117
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 120
+skip$ -- 144
 stack$ -- 0
 substring$ -- 265
-swap$ -- 67
+swap$ -- 73
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 2
-while$ -- 36
-width$ -- 21
-write$ -- 258
+while$ -- 37
+width$ -- 27
+write$ -- 325
 (There were 2 warnings)
