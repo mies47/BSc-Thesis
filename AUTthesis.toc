@@ -87,8 +87,13 @@
 \contentsline {section}{\numberline {4-1}چالش‌های سخت‌افزاری}{46}{section.4.1}%
 \contentsline {section}{\numberline {4-2}چالش‌های نرم‌افزاری}{46}{section.4.2}%
 \contentsline {section}{\numberline {4-3}جمع‌بندی و نتیجه‌گیری}{47}{section.4.3}%
-\contentsline {chapter}{منابع و مراجع}{48}{appendix*.67}%
-\contentsline {chapter}{پیوست}{51}{appendix*.68}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{52}{appendix*.70}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{54}{appendix*.71}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيری و پیشنهادها}{48}{chapter.5}%
+\contentsline {section}{\numberline {5-1}جمع‌بندي و نتيجه‌گيری}{49}{section.5.1}%
+\contentsline {section}{\numberline {5-2}پیشنهادها}{49}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}حل محدودیت‌های سخت‌افزاری}{49}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}پیاده‌سازی ارسال اعلان و برنامه تلفن همراه}{49}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}تکمیل کتابخانه ایکس‌بی}{50}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5-2-4}استفاده از سایر معیارهای محیطی}{50}{subsection.5.2.4}%
+\contentsline {chapter}{منابع و مراجع}{51}{appendix*.67}%
+\contentsline {chapter}{پیوست}{54}{appendix*.68}%
 \contentsfinish 
