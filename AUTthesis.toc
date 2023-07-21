@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست اشکال}{د}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{و}{section*.5}%
+\contentsline {chapter}{فهرست اشکال}{ه}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{ز}{section*.5}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
@@ -83,8 +83,12 @@
 \contentsline {subsubsection}{داشبورد}{42}{section*.61}%
 \contentsline {subsubsection}{گره}{42}{section*.63}%
 \contentsline {section}{\numberline {3-7}نتیجه‌گیری و جمع‌بندی}{44}{section.3.7}%
-\contentsline {chapter}{منابع و مراجع}{45}{appendix*.67}%
-\contentsline {chapter}{پیوست}{48}{appendix*.68}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{49}{appendix*.70}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{51}{appendix*.71}%
+\contentsline {chapter}{\numberline {4}چالش‌ها و محدودیت‌ها}{45}{chapter.4}%
+\contentsline {section}{\numberline {4-1}چالش‌های سخت‌افزاری}{46}{section.4.1}%
+\contentsline {section}{\numberline {4-2}چالش‌های نرم‌افزاری}{46}{section.4.2}%
+\contentsline {section}{\numberline {4-3}جمع‌بندی و نتیجه‌گیری}{47}{section.4.3}%
+\contentsline {chapter}{منابع و مراجع}{48}{appendix*.67}%
+\contentsline {chapter}{پیوست}{51}{appendix*.68}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{52}{appendix*.70}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{54}{appendix*.71}%
 \contentsfinish 
