@@ -39,37 +39,37 @@
 \contentsline {subsubsection}{کتابخانه \lr {Xbee}}{25}{section*.27}%
 \contentsline {subsubsection}{ساختار فریم \lr {API}}{26}{section*.29}%
 \contentsline {subsubsection}{فریم درخواست ارسال}{27}{section*.31}%
-\contentsline {subsubsection}{داده ارسالی}{28}{section*.33}%
-\contentsline {subsubsection}{فایل \lr {Xbee.cpp} و توابع مهم}{28}{section*.34}%
+\contentsline {subsubsection}{داده ارسالی}{27}{section*.33}%
+\contentsline {subsubsection}{فایل \lr {Xbee.cpp} و توابع مهم}{27}{section*.34}%
 \contentsline {subsection}{\numberline {3-2-3}‫ﺧﻮﺍﺑﻴﺪﻥ‬ ‫ﻭ‬ ‫ﺑﻴﺪﺍﺭﺷﺪﻥ‬ ‫ﺩﺭ‬ ‫ﺑﺎﺯﻩ‬‌‫ﻫﺎی ‬‫ﺯﻣﺎﻧﻲ‬ ‫ﻣﺸﺨﺺ‬}{28}{subsection.3.2.3}%
 \contentsline {section}{\numberline {3-3}دروازه}{29}{section.3.3}%
 \contentsline {subsection}{\numberline {3-3-1}فایل \lr {env\_vars.py}}{29}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3-3-2}فایل \lr {models.py}}{29}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3-3-3}فایل \lr {receiver.py}}{30}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3-3-4}فایل \lr {requirements.txt}}{30}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3-3-5}فایل \lr {schedule.sh}}{30}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3-3-5}فایل \lr {schedule.sh}}{31}{subsection.3.3.5}%
 \contentsline {subsection}{\numberline {3-3-6}فایل \lr {send\_data.py}}{31}{subsection.3.3.6}%
 \contentsline {subsection}{\numberline {3-3-7}فایل \lr {signup.py}}{31}{subsection.3.3.7}%
 \contentsline {subsection}{\numberline {3-3-8}فایل \lr {utils.py}}{31}{subsection.3.3.8}%
 \contentsline {section}{\numberline {3-4}پیش‌پردازش}{31}{section.3.4}%
 \contentsline {section}{\numberline {3-5}پایگاه داده سری زمانی}{32}{section.3.5}%
 \contentsline {subsection}{\numberline {3-5-1}ساختار کلی}{33}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3-5-2}اندازه‌گیری‌ها و توابع مربوط به نوشتن و گرفتن داده}{33}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3-5-2}اندازه‌گیری‌ها و توابع مربوط به نوشتن و گرفتن داده}{34}{subsection.3.5.2}%
 \contentsline {subsection}{\numberline {3-5-3}توابع گرفتن شناسه گره و اندازه‌گیری}{34}{subsection.3.5.3}%
 \contentsline {subsection}{\numberline {3-5-4}تابع \lr {get\_starting\_service\_date}}{34}{subsection.3.5.4}%
-\contentsline {subsection}{\numberline {3-5-5}تابع حذف داده‌ها و حافظه پنهان}{34}{subsection.3.5.5}%
+\contentsline {subsection}{\numberline {3-5-5}تابع حذف داده‌ها و حافظه پنهان}{35}{subsection.3.5.5}%
 \contentsline {section}{\numberline {3-6}برنامه وب و چارچوب ویو}{35}{section.3.6}%
 \contentsline {subsection}{\numberline {3-6-1}کتابخانه‌ها و ماژول‌ها}{35}{subsection.3.6.1}%
 \contentsline {subsubsection}{چارچوب ناکست}{35}{section*.38}%
-\contentsline {subsubsection}{کتابخانه ویوتیفای}{35}{section*.39}%
+\contentsline {subsubsection}{کتابخانه ویوتیفای}{36}{section*.39}%
 \contentsline {subsubsection}{کتابخانه چارت}{36}{section*.40}%
 \contentsline {subsubsection}{کتابخانه اکسیوس}{36}{section*.41}%
-\contentsline {subsubsection}{ماژول احراز هویت ناکست}{36}{section*.42}%
+\contentsline {subsubsection}{ماژول احراز هویت ناکست}{37}{section*.42}%
 \contentsline {subsection}{\numberline {3-6-2}ساختار پروژه}{37}{subsection.3.6.2}%
-\contentsline {subsubsection}{پوشه \lr {assets}}{38}{section*.44}%
+\contentsline {subsubsection}{پوشه \lr {assets}}{37}{section*.44}%
 \contentsline {subsubsection}{پوشه \lr {components}}{38}{section*.45}%
 \contentsline {subsubsection}{پوشه \lr {layouts}}{38}{section*.46}%
-\contentsline {subsubsection}{پوشه \lr {pages}}{38}{section*.47}%
+\contentsline {subsubsection}{پوشه \lr {pages}}{39}{section*.47}%
 \contentsline {subsubsection}{پوشه \lr {plugins}}{39}{section*.48}%
 \contentsline {subsubsection}{پوشه \lr {statics}}{39}{section*.49}%
 \contentsline {subsubsection}{پوشه \lr {store}}{39}{section*.50}%
@@ -77,23 +77,23 @@
 \contentsline {subsection}{\numberline {3-6-3}مؤلفه‌های اصلی}{40}{subsection.3.6.3}%
 \contentsline {subsubsection}{کارت خلاصه}{40}{section*.52}%
 \contentsline {subsubsection}{فرم‌ها}{40}{section*.54}%
-\contentsline {subsubsection}{اسنک‌بار}{40}{section*.57}%
-\contentsline {subsubsection}{فوتر}{41}{section*.58}%
+\contentsline {subsubsection}{اسنک‌بار}{41}{section*.57}%
+\contentsline {subsubsection}{فوتر}{42}{section*.58}%
 \contentsline {subsubsection}{مؤلفه‌های \lr {GatewayDetail} و \lr {UserDetail}}{42}{section*.59}%
 \contentsline {subsubsection}{داشبورد}{42}{section*.61}%
-\contentsline {subsubsection}{گره}{42}{section*.63}%
-\contentsline {section}{\numberline {3-7}نتیجه‌گیری و جمع‌بندی}{44}{section.3.7}%
-\contentsline {chapter}{\numberline {4}چالش‌ها و محدودیت‌ها}{45}{chapter.4}%
-\contentsline {section}{\numberline {4-1}چالش‌های سخت‌افزاری}{46}{section.4.1}%
-\contentsline {section}{\numberline {4-2}چالش‌های نرم‌افزاری}{46}{section.4.2}%
-\contentsline {section}{\numberline {4-3}جمع‌بندی و نتیجه‌گیری}{47}{section.4.3}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيری و پیشنهادها}{48}{chapter.5}%
-\contentsline {section}{\numberline {5-1}جمع‌بندي و نتيجه‌گيری}{49}{section.5.1}%
-\contentsline {section}{\numberline {5-2}پیشنهادها}{49}{section.5.2}%
-\contentsline {subsection}{\numberline {5-2-1}حل محدودیت‌های سخت‌افزاری}{49}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5-2-2}پیاده‌سازی ارسال اعلان و برنامه تلفن همراه}{49}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5-2-3}تکمیل کتابخانه ایکس‌بی}{50}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5-2-4}استفاده از سایر معیارهای محیطی}{50}{subsection.5.2.4}%
-\contentsline {chapter}{منابع و مراجع}{51}{appendix*.67}%
-\contentsline {chapter}{پیوست}{54}{appendix*.68}%
+\contentsline {subsubsection}{گره}{43}{section*.63}%
+\contentsline {section}{\numberline {3-7}نتیجه‌گیری و جمع‌بندی}{45}{section.3.7}%
+\contentsline {chapter}{\numberline {4}چالش‌ها و محدودیت‌ها}{46}{chapter.4}%
+\contentsline {section}{\numberline {4-1}چالش‌های سخت‌افزاری}{47}{section.4.1}%
+\contentsline {section}{\numberline {4-2}چالش‌های نرم‌افزاری}{47}{section.4.2}%
+\contentsline {section}{\numberline {4-3}جمع‌بندی و نتیجه‌گیری}{48}{section.4.3}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيری و پیشنهادها}{49}{chapter.5}%
+\contentsline {section}{\numberline {5-1}جمع‌بندي و نتيجه‌گيری}{50}{section.5.1}%
+\contentsline {section}{\numberline {5-2}پیشنهادها}{50}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}حل محدودیت‌های سخت‌افزاری}{50}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}پیاده‌سازی ارسال اعلان و برنامه تلفن همراه}{51}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}تکمیل کتابخانه ایکس‌بی}{51}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5-2-4}استفاده از سایر معیارهای محیطی}{51}{subsection.5.2.4}%
+\contentsline {chapter}{منابع و مراجع}{52}{appendix*.67}%
+\contentsline {chapter}{پیوست}{55}{appendix*.68}%
 \contentsfinish 
